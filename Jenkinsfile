@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy Jenkinsfile
+#!/usr/bin/env groovy
 
 pipeline {
  
